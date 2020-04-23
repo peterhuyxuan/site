@@ -88,7 +88,8 @@ export default class About extends Component {
                       I have developed professionally Mobile Applications for
                       Android using Java as a Full-Stack Developer for Bundy and
                       Cross-Platform Mobile Applications for Android and iOS
-                      Platforms using Xamarin coding in C#, SQL and XAML
+                      Platforms for EVisuals using Xamarin coding in C#, SQL and
+                      XAML
                     </p>
                   </div>
                 </div>
