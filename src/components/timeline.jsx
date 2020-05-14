@@ -151,7 +151,7 @@ export default class Timeline extends Component {
                           2015-2017. I then took a gap year to travel throughout
                           Southeast Asia before returning in 2018 to finish my
                           Computer Science Degree at the University of New South
-                          Wales where I will be graduating in May 2021.
+                          Wales where I will be graduating in early 2021.
                         </p>
                       </div>
                     </div>
