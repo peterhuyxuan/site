@@ -31,17 +31,30 @@ export default class Timeline extends Component {
                           Professional Experience <span>2019 - Present</span>
                         </h2>
                         <p>
-                          I am currently a Web Developer for Platute where I am
-                          currently developing the professional commercial
-                          Platute website based on Adobe XD designs using the
-                          MERN Stack. I am also implementing 20% of the
-                          administrative console of an instantaneous
-                          location-based on-demand tutoring marketplace. I am
-                          creating the NodeJS backend with Express that handles
-                          15% of the REST API requests from the React frontend
-                          of the admin panel and I am using MongoDB to store the
-                          dozens of tutors and student users of the application
-                          into the cloud database.
+                          I am currently a Frontend Developer for Muster where I
+                          am developing the social meetup mobile application
+                          using React Native for the Android and iOS Platform. I
+                          have been migrating the entire existing codebase from
+                          the Frontend and Backend from JavaScript to TypeScript
+                          for further development. I am now working on multiple
+                          features across many issues covered throughout the
+                          Sprint Board engaging in frequent pair programming
+                          reviews. I am also simultaneously integrating the
+                          Frontend to work with the Postgres Relational
+                          Database, GraphQL and the Apollo server for the
+                          Backend.
+                        </p>
+                        <p>
+                          I was also a Web Developer for Platute where I was
+                          developing the professional commercial Platute website
+                          based on Adobe XD designs using the MERN Stack. I also
+                          implemented 20% of the administrative console of an
+                          instantaneous location-based on-demand tutoring
+                          marketplace. I also created the NodeJS backend with
+                          Express that handles 15% of the REST API requests from
+                          the React frontend of the admin panel and I used
+                          MongoDB to store the dozens of tutors and student
+                          users of the application into the cloud database.
                         </p>
                         <p>
                           I was previously a Mobile Applications Developer for

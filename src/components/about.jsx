@@ -69,9 +69,10 @@ export default class About extends Component {
                     <p>
                       I have experience building websites and applications using
                       HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB
-                      and VueJS. I am currently a Web Developer for Platute
-                      developing their professional website and administrative
-                      console using MERN Stack
+                      and VueJS. I was a Web Developer for Platute developing
+                      their professional website and administrative console
+                      using MERN Stack. Now I am a Scrum Master creating a
+                      Social Media application in React and Firebase
                     </p>
                   </div>
                 </div>
@@ -85,10 +86,11 @@ export default class About extends Component {
                     <h3>Mobile Applications Development</h3>
                     <p>
                       I have developed professionally Mobile Applications for
-                      Android using Java as a Full-Stack Developer for Bundy and
+                      Android using Java as a Full-Stack Developer for Bundy, a
                       Cross-Platform Mobile Applications for Android and iOS
                       Platforms for EVisuals using Xamarin coding in C#, SQL and
-                      XAML
+                      XAML, and most recently developing a TypeScript React
+                      Native Android and iOS mobile application for Muster
                     </p>
                   </div>
                 </div>
@@ -104,7 +106,9 @@ export default class About extends Component {
                       Coming from a Computer Science background, I have a good
                       understanding of Data Structures & Algorithms having taken
                       courses in them and solving these problems in my spare
-                      time using C, Java and Python
+                      time using C, Java and Python and JavaScript as well going
+                      through multiple questions in LeetCode to ensure I am
+                      ready for upcoming technical coding interviews
                     </p>
                   </div>
                 </div>
