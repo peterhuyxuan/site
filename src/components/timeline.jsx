@@ -35,7 +35,7 @@ export default class Timeline extends Component {
                           am developing the social meetup mobile application
                           using React Native for the Android and iOS Platform. I
                           have been migrating the entire existing codebase from
-                          the frontend and nackend from JavaScript to TypeScript
+                          the frontend and backend from JavaScript to TypeScript
                           for further development. I am now working on multiple
                           features across many issues covered throughout the
                           Sprint Board engaging in frequent pair programming
