@@ -35,14 +35,14 @@ export default class Timeline extends Component {
                           am developing the social meetup mobile application
                           using React Native for the Android and iOS Platform. I
                           have been migrating the entire existing codebase from
-                          the Frontend and Backend from JavaScript to TypeScript
+                          the frontend and nackend from JavaScript to TypeScript
                           for further development. I am now working on multiple
                           features across many issues covered throughout the
                           Sprint Board engaging in frequent pair programming
                           reviews. I am also simultaneously integrating the
-                          Frontend to work with the Postgres Relational
+                          frontend to work with the Postgres Relational
                           Database, GraphQL and the Apollo server for the
-                          Backend.
+                          backend.
                         </p>
                         <p>
                           I was also a Web Developer for Platute where I was
